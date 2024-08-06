@@ -210,3 +210,199 @@
     - d) `to_upper()`
     - **Réponse : c**
 
+
+
+
+
+
+### QCM TypeScript
+
+1. **Quel est le type de base pour une variable qui peut contenir une chaîne de caractères en TypeScript ?**
+   - a) `char`
+   - b) `String`
+   - c) `string`
+   - d) `str`
+   - **Réponse : c**
+
+2. **Comment déclare-t-on une variable en TypeScript ?**
+   - a) `let varName;`
+   - b) `var varName;`
+   - c) `variable varName;`
+   - d) `let varName: type;`
+   - **Réponse : d**
+
+3. **Quel est l'opérateur utilisé pour spécifier un type dans une variable ou une fonction en TypeScript ?**
+   - a) `:`
+   - b) `@`
+   - c) `#`
+   - d) `->`
+   - **Réponse : a**
+
+4. **Quelle est la bonne syntaxe pour définir une interface en TypeScript ?**
+   - a) `interface IName { ... }`
+   - b) `define IName { ... }`
+   - c) `type IName = { ... }`
+   - d) `class IName { ... }`
+   - **Réponse : a**
+
+5. **Comment crée-t-on une fonction asynchrone en TypeScript ?**
+   - a) `function async myFunction() { ... }`
+   - b) `async function myFunction() { ... }`
+   - c) `function myFunction async() { ... }`
+   - d) `async myFunction() { ... }`
+   - **Réponse : b**
+
+6. **Quel est le type de base pour une variable qui peut contenir un nombre en TypeScript ?**
+   - a) `int`
+   - b) `float`
+   - c) `number`
+   - d) `num`
+   - **Réponse : c**
+
+7. **Comment spécifie-t-on un type optionnel pour une propriété dans une interface ?**
+   - a) `property: type?`
+   - b) `property?: type`
+   - c) `?property: type`
+   - d) `property? : type`
+   - **Réponse : b**
+
+8. **Quel mot-clé est utilisé pour déclarer une constante en TypeScript ?**
+   - a) `let`
+   - b) `const`
+   - c) `var`
+   - d) `constant`
+   - **Réponse : b**
+
+9. **Quelle est la syntaxe correcte pour importer un module en TypeScript ?**
+   - a) `import { myModule } from "module";`
+   - b) `require("module").myModule;`
+   - c) `include "module" as myModule;`
+   - d) `import myModule from "module";`
+   - **Réponse : a**
+
+10. **Comment déclare-t-on un tableau de nombres en TypeScript ?**
+    - a) `let arr: number[];`
+    - b) `let arr: array of number;`
+    - c) `let arr: [number];`
+    - d) `let arr: Array of number;`
+    - **Réponse : a**
+
+11. **Comment définit-on un type tuple en TypeScript ?**
+    - a) `let tuple: [type1, type2];`
+    - b) `let tuple: (type1, type2);`
+    - c) `let tuple: {type1, type2};`
+    - d) `let tuple: <type1, type2>;`
+    - **Réponse : a**
+
+12. **Quel mot-clé est utilisé pour déclarer une classe en TypeScript ?**
+    - a) `class`
+    - b) `define`
+    - c) `module`
+    - d) `type`
+    - **Réponse : a**
+
+13. **Comment déclare-t-on une méthode privée dans une classe TypeScript ?**
+    - a) `private methodName() { ... }`
+    - b) `protected methodName() { ... }`
+    - c) `methodName() private { ... }`
+    - d) `methodName() { private ... }`
+    - **Réponse : a**
+
+14. **Quel mot-clé est utilisé pour créer une instance d'une classe en TypeScript ?**
+    - a) `instance`
+    - b) `new`
+    - c) `create`
+    - d) `make`
+    - **Réponse : b**
+
+15. **Comment déclare-t-on un type union en TypeScript ?**
+    - a) `let variable: type1 | type2;`
+    - b) `let variable: type1 & type2;`
+    - c) `let variable: [type1, type2];`
+    - d) `let variable: (type1, type2);`
+    - **Réponse : a**
+
+16. **Quelle est la syntaxe correcte pour définir une fonction fléchée en TypeScript ?**
+    - a) `let myFunction = (param) => { ... }`
+    - b) `let myFunction => (param) { ... }`
+    - c) `let myFunction -> (param) { ... }`
+    - d) `let myFunction = function(param) { ... }`
+    - **Réponse : a**
+
+17. **Quel mot-clé est utilisé pour exporter une variable ou une fonction en TypeScript ?**
+    - a) `export`
+    - b) `export default`
+    - c) `module.exports`
+    - d) `exports`
+    - **Réponse : a**
+
+18. **Comment spécifie-t-on un type pour les paramètres d'une fonction en TypeScript ?**
+    - a) `function myFunction(param: type) { ... }`
+    - b) `function myFunction(type param) { ... }`
+    - c) `function myFunction(param) : type { ... }`
+    - d) `function myFunction(param): { ... }: type`
+    - **Réponse : a**
+
+19. **Quelle est la syntaxe correcte pour définir une interface avec une méthode en TypeScript ?**
+    - a) `interface IName { methodName(): type; }`
+    - b) `interface IName { function methodName(): type; }`
+    - c) `interface IName { methodName(type): void; }`
+    - d) `interface IName { methodName(): type = void; }`
+    - **Réponse : a**
+
+20. **Comment déclare-t-on une énumération en TypeScript ?**
+    - a) `enum EnumName { ... }`
+    - b) `enumeration EnumName { ... }`
+    - c) `enum { ... } EnumName`
+    - d) `enum: EnumName { ... }`
+    - **Réponse : a**
+
+21. **Quel mot-clé est utilisé pour définir un module en TypeScript ?**
+    - a) `module`
+    - b) `namespace`
+    - c) `package`
+    - d) `import`
+    - **Réponse : b**
+
+22. **Comment définit-on un type générique en TypeScript ?**
+    - a) `function myFunction<T>(param: T): T { ... }`
+    - b) `function myFunction<type>(param: type): type { ... }`
+    - c) `function myFunction[T](param: T): T { ... }`
+    - d) `function myFunction(type)(param: type): type { ... }`
+    - **Réponse : a**
+
+23. **Quelle est la syntaxe correcte pour étendre une classe en TypeScript ?**
+    - a) `class DerivedClass extends BaseClass { ... }`
+    - b) `class DerivedClass inherit BaseClass { ... }`
+    - c) `class DerivedClass implements BaseClass { ... }`
+    - d) `class DerivedClass extends: BaseClass { ... }`
+    - **Réponse : a**
+
+24. **Comment déclare-t-on une propriété en lecture seule dans une classe TypeScript ?**
+    - a) `readonly propertyName: type;`
+    - b) `read propertyName: type;`
+    - c) `propertyName: readonly type;`
+    - d) `propertyName: read type;`
+    - **Réponse : a**
+
+25. **Quel est le type pour une variable qui peut contenir n'importe quelle valeur en TypeScript ?**
+    - a) `any`
+    - b) `object`
+    - c) `unknown`
+    - d) `union`
+    - **Réponse : a**
+
+26. **Comment spécifie-t-on le type de retour d'une fonction en TypeScript ?**
+    - a) `function myFunction(): type { ... }`
+    - b) `function myFunction() -> type { ... }`
+    - c) `function myFunction() => type { ... }`
+    - d) `function myFunction() : type { ... }`
+    - **Réponse : a**
+
+27. **Comment déclare-t-on un type de fonction en TypeScript ?**
+    - a) `let myFunction: (param: type) => returnType;`
+    - b) `let myFunction = function(param: type) => returnType;`
+    - c) `let myFunction: (param: type) -> returnType;`
+    - d) `let myFunction = (param: type) : returnType;`
+    - **Réponse : a**
+
