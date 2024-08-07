@@ -409,9 +409,6 @@
 
 
 
-
-Voici 30 questions à choix multiples (QCM) basées sur le cours Laravel de W3Schools, avec les réponses correspondantes:
-
 ### Laravel QCM
 
 #### 1. Quelle commande artisan est utilisée pour créer un nouveau projet Laravel?
